@@ -7,7 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshlakhana&layout=compact&hide_border=true&title_color=38BDF8&text_color=E5E7EB&bg_color=0d1117" />
 </div>
 
-[![Hitesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiteshlakhana&bg_color=0d1117&color=34D399&line=60A5FA&point=F87171&area=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=hiteshlakhana&count_private=true&cache_seconds=1
+[[![Hitesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiteshlakhana&bg_color=0d1117&color=34D399&line=60A5FA&point=F87171&area=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=hiteshlakhana&count_private=true&cache_seconds=1
+)](https://github-readme-stats.vercel.app/api?username=hiteshlakhana&show_icons=true&count_private=true
 )
 
 ---
